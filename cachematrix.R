@@ -26,8 +26,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ##Step 2
 # Using the following function to return the inverse of matrix. If we have had the inverse matrix 
-then output the result and skip the computation. If not, the setinverse function computes the inverse 
-and sets the value in cache.
+# then output the result and skip the computation. If not, the setinverse function computes the inverse 
+# and sets the value in cache.
 
 ## Return a matrix that is the inverse of 'x'
 
